@@ -12,5 +12,4 @@ Key Questions Addressed
 List the main analytical questions: 
 1. What is the portfolio's credit risk profile (by Grade)?
 2. Where is the highest geographic concentration?
-3. What is the status of asset quality realization (Collection vs. Principal)?
-
+3. What is the status of asset quality realization (Collection vs. Principal
